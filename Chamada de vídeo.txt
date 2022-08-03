@@ -3,3 +3,5 @@ Chamada de audio
 chamada de video
 
 Otimização
+
+Correção de bugs
