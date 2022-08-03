@@ -1,3 +1,5 @@
 Mensagem de texto
 
 Mensagem de áudio
+
+Fotos e mídias
